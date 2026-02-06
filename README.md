@@ -23,5 +23,5 @@ streamlit run app.py
 
 ## Files
 
-app.py — Main application entry point.
-requirements.txt — Dependencies.
+- app.py — Main application entry point.
+- requirements.txt — Dependencies.
